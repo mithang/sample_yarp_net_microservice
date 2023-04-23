@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Productservice", "Productservice\Productservice.csproj", "{74A3F0CE-4482-4E22-9AE3-FA3B183F19D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategoryService", "CategoryService\CategoryService.csproj", "{A726B1FA-100B-48A0-A736-52D552B8898E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGateway", "WebGateway\WebGateway.csproj", "{0FAE5194-7E10-43F0-A442-95DEC340F6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A3F0CE-4482-4E22-9AE3-FA3B183F19D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A3F0CE-4482-4E22-9AE3-FA3B183F19D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A3F0CE-4482-4E22-9AE3-FA3B183F19D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A3F0CE-4482-4E22-9AE3-FA3B183F19D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A726B1FA-100B-48A0-A736-52D552B8898E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A726B1FA-100B-48A0-A736-52D552B8898E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A726B1FA-100B-48A0-A736-52D552B8898E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A726B1FA-100B-48A0-A736-52D552B8898E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FAE5194-7E10-43F0-A442-95DEC340F6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAE5194-7E10-43F0-A442-95DEC340F6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAE5194-7E10-43F0-A442-95DEC340F6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAE5194-7E10-43F0-A442-95DEC340F6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
